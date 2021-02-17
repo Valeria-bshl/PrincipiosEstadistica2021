@@ -8,5 +8,9 @@ Semana 1
 + 04.02.21: Creación de la cuenta github y su primer repositorio
 
 Semana 2
-+ 10.02.21
-+ 11.02.21
++ 10.02.21: cuestionario introductorio sobre definiciones de la materia y un ejemplo
++ 11.02.21: Primer contacto con RStudio
+
+
+Semana 3
++ 17.02.21: Laboratorio 1
