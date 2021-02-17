@@ -1,4 +1,4 @@
-# PrincipiosEstadistica2021
+# Principios de Estadistica 2021
 Notas y bitácora de la UA Principios de estadística 2021
 
 ## Secciones de trabajo del curso
@@ -14,3 +14,4 @@ Semana 2
 
 Semana 3
 + 17.02.21: Laboratorio 1
++ 18.02.21
