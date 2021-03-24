@@ -38,5 +38,5 @@ Semana 7
 
 
 Semana 8
-24.03.21: Continuación de Correlación
-25.03.21: 
++ 24.03.21: Continuación de Correlación
++ 25.03.21: 
