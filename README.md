@@ -40,3 +40,13 @@ Semana 7
 Semana 8
 + 24.03.21: Continuación de Correlación
 + 25.03.21: 
+
+
+Semana 9
++ 14.04.21: Análisis de regresión 
++ 15.04.21: Clase asíncrona
+
+
+Semana 10
++ 21.04.21: Análisis de regresión
++ 22.04.21:
