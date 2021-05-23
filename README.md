@@ -49,4 +49,19 @@ Semana 9
 
 Semana 10
 + 21.04.21: Análisis de regresión
-+ 22.04.21:
++ 22.04.21: Ejercicio datos canopy
+
+
+Semana 11
++ 28.04.21: Normalidad y homogeneidad de varianzas
++ 29.05.21: Clase asíncrona
+
+
+Semana 12
++ 12.05.21: Prueba de T de una muestra
++ 13.05.21: Prueba de T de dos muestras independientes
+
+
+Semana 13
++ 19.05.21: Pruebas de T dependientes
++ 20.05.21: Fin de curso
